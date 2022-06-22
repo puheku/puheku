@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**puheku/puheku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b>👨‍💻 work in progress</b></summary>
+    <p>
+      <img align="right" width="250" src="workinprogress.png" alt="workinprogress" />
+      
+<blockquote>
 
-Here are some ideas to get you started:
+work in progress, just wait :).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</blockquote>
+    
+----
+  
+  </p>
+</details>
