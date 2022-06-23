@@ -12,4 +12,4 @@ work in progress, just wait :).
 </details>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puheku&theme=github_dark)
+![Les Stats GitHub de puheku](https://github-readme-stats.vercel.app/api?username=puheku&count_private=true)
