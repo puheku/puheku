@@ -10,6 +10,3 @@ work in progress, just wait :).
 ----
   </p>
 </details>
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puheku&theme=github_dark)
