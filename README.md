@@ -12,4 +12,4 @@ work in progress, just wait :).
 </details>
 
 
-![Les Stats GitHub de puheku](https://github-readme-stats.vercel.app/api?username=puheku&count_private=true)
+![Les Stats GitHub de puheku](https://github-readme-stats.vercel.app/api?username=puheku&show_icons=true&theme=radical&count_private=true)
